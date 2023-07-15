@@ -10,5 +10,4 @@ The first included a list of the most common phishing words, and the second incl
 The Model can be installed on the Windows operating system and is exported as an executable file. 
 
 # References
-Al-Yozbaky, Rian; Alanezi, Mafaz. Detection and Analysis of Phishing Emails Using NLP Techniques.
-5th International Congress on Human-Computer Interaction, Optimization, and Robotic Applications (HORA). IEEE, 2023. DOI: 10.1109/HORA58378.2023.10156738
+R. S. Al-Yozbaky and M. Alanezi, "Detection and Analyzing Phishing Emails Using NLP Techniques," 2023 5th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA), Istanbul, Turkiye, 2023, pp. 1-6, doi: 10.1109/HORA58378.2023.10156738.
